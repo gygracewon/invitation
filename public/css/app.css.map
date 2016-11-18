@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AACA;EACC,wBAAuB;EACvB,gBAAgB,EAChB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\nbody{\n\tborder:2px green solid;\n\tfont-size: 14px;\n}\n\n"]}
